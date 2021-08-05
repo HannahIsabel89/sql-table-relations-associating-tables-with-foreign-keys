@@ -173,4 +173,4 @@ The thing that "has many" is considered to be the parent. The thing that "belong
 
 ## Resources
 
-- Practice SQL Queries on <a href="http://sqlbolt.com/lesson/select_queries_review">SQLBolt</a>.
+- [Practice SQL Queries on SQLBolt](http://sqlbolt.com/lesson/select_queries_review)
